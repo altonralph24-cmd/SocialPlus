@@ -1,3 +1,0 @@
-flutter --version
-flutter doctor
-flutter create .
